@@ -98,10 +98,30 @@ footer{
   font-size: 13px;
 }
 
-.item{
-  display: inline-block;
+/*css pag inicial*/
+
+.banner{
+  width:100%;
 }
 
-#missao strong{
-  color: red;
+.titulo-principal{
+  text-align: center;
+  font-size: 2em;
+  margin: 0 0 1em;
+}
+
+.principal p{
+  margin: 0 0 1em;
+}
+
+.principal strong{
+  font-weight: bold;
+}
+
+.principal em{
+  font-style: italic;
+}
+
+.imgbeneficios{
+  width: 60%
 }
