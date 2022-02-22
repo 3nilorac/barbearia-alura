@@ -97,3 +97,11 @@ footer{
   color: #FFFFFF;
   font-size: 13px;
 }
+
+.item{
+  display: inline-block;
+}
+
+#missao strong{
+  color: red;
+}
